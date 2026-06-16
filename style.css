@@ -2,9 +2,9 @@
 
 :root{
     --branco: white;
-    --cor-de-fundo: #00162E;
+    --cor-de-fundo: #7bafe7;
     --fundo-senha: #00244D;
-    --fundo-texto: #001E40;
+    --fundo-texto: #1775a7;
     --borda: #0075FF;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
@@ -62,6 +62,7 @@ body{
 .parametro{
     background-color: var(--fundo-texto);
     border: 2px solid var(--borda);
+    border-radius: 10px;
     margin-top: 32px;
     padding: 24px;
 }
@@ -90,3 +91,23 @@ body{
         flex-direction: row;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
